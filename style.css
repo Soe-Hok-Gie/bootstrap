@@ -5,7 +5,16 @@
 }
 .jumbotron .display-4{
     color: whitesmoke;
+    text-align: center;
 }
 .jumbotron p {
     color: whitesmoke;
+    font-size: 25px;
+   
+}
+
+.jumbotron .btn{
+    background-color: teal;
+    border-radius: 10px;
+    border: none;
 }
