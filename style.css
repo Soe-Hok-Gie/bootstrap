@@ -1,4 +1,4 @@
-.jumbotron{
+/* .jumbotron{
     background-image: url(img/B.jpg);
     background-size: cover;
     height: 750px;
@@ -17,4 +17,8 @@
     background-color: teal;
     border-radius: 10px;
     border: none;
+} */
+
+.carousel-item{
+    height: 670px;
 }
