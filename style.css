@@ -25,5 +25,19 @@
 
 .carousel-item .display-4{
     margin-top: -450px;
+    color: black;
+    text-align: center
 
+}
+
+.carousel-item p {
+    color: brown;
+    font-size: 25px;
+   
+}
+
+.carousel-item .btn{
+    background-color: teal;
+    border-radius: 10px;
+    border: none;
 }
