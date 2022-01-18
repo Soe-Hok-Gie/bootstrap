@@ -22,3 +22,8 @@
 .carousel-item{
     height: 670px;
 }
+
+.carousel-item .display-4{
+    margin-top: -450px;
+
+}
